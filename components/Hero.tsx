@@ -31,8 +31,11 @@ const Hero = () => {
 
         <div className='hero__image-container'>
             <div className='hero__image'>
-                <Image src='/hero.png' alt='hero'
+                <Image src='/laptop-illustration.png' alt='hero'
                 fill className='object-contain' />
+
+
+            {/* <a href="https://www.freepik.com/free-vector/nfc-technology-concept-illustration_66196966.htm#query=payment%20gateway&position=44&from_view=keyword&track=ais&uuid=828bf785-6da0-4437-9863-b90013c0d72a">Image by storyset</a> on Freepik */}
            </div>
             
             <div className='hero__image-overlay'/>
